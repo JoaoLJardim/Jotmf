@@ -1,4 +1,4 @@
-### Hi there, I'm João Luís Gomes Jardim! 👋
+### Hi there, I'm João Jardim! 👋
 
 **About Me**
 
