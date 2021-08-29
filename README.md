@@ -8,5 +8,5 @@ ___
 **Stats**
 
 <a href="https://github.com/Jotmf">
-<img src="https://github-readme-stats.vercel.app/api?username=Jotmf&show_icons=true&count_private=true" alt="Jotmf's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jotmf&show_icons=true&count_private=true&theme=radical" alt="Jotmf's GitHub Stats"/>
 </a>
