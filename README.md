@@ -14,6 +14,7 @@
   - React
   - Mysql
   - MongoDB
+  - CodeIgniter
   - Laravel
 ___
 
