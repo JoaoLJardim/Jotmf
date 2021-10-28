@@ -30,6 +30,6 @@ ___
 
 **Github Stats**
 <div align="center">
-  <img style="height:190px" src="https://github-readme-stats.vercel.app/api?username=Jotmf&show_icons=true&count_private=true&theme=radical" />
-  <img style="height:190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotmf&langs_count=5&theme=radical&count_private=true&layout=compact" />
+  <img style="height: 170px" src="https://github-readme-stats.vercel.app/api?username=Jotmf&show_icons=true&count_private=true&theme=radical" />
+  <img style="height: 170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotmf&langs_count=5&theme=radical&count_private=true&layout=compact" />
 </div>
