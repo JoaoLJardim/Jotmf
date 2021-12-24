@@ -24,13 +24,12 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
 
 **Current Studying:**
 <div>  
-  <img src="https://img.shields.io/badge/Angular-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</iv>  
+  <img src="https://img.shields.io/badge/Angular-1572B6?style=for-the-badge&logo=java&logoColor=white" />
+</div>  
 ___
