@@ -31,5 +31,6 @@
 **Current Studying:**
 <div>  
   <img src="https://img.shields.io/badge/Angular-1572B6?style=for-the-badge&logo=java&logoColor=white" />
-</div>  
+</div>
+
 ___
