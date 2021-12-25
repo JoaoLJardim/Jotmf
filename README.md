@@ -4,11 +4,9 @@
 **About Me:**
 - Age : 21
 - From : Portugal Madeira Island
-- Likes 
-  - Games
-  - Programming
-  - Technology
-  - Movies & Tv Shows
+<!-- - Currently working on [Project Name](www.google.com)! -->
+
+<br />
 
 ___
 
