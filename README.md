@@ -8,6 +8,7 @@
   - Games
   - Programming
   - Technology
+  - Movies & Tv Shows
 
 ___
 
