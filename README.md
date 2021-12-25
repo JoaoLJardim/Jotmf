@@ -4,9 +4,14 @@
 **About Me:**
 - Age : 21
 - From : Portugal Madeira Island
+- I love playing games, watching movies and tv shows, programming.
 <!-- - Currently working on [Project Name](www.google.com)! -->
 
-<br />
+___
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jotmf" width="100%" />
+</div>
 
 ___
 
