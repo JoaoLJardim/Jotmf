@@ -10,7 +10,7 @@
 ___
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jotmf" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jotmf" />
 </div>
 
 ___
