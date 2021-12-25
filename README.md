@@ -1,11 +1,19 @@
-### Hi there, I'm João Jardim! 👋
-
+# Hi there, I'm João Luís Gomes Jardim! 👋
+**Welcome to my profile where you can check my public projects.**
+<br><br>
 **About Me:**
-
 - Age : 21
-- From : Portugal
-<br>
-<br>
+- From : Portugal Madeira Island
+- Likes 
+  - Games
+  - Programming
+  - Technology
+
+___
+
+**Projects:**
+- None currently
+___
 
 **Knowledge:**
 
@@ -26,6 +34,7 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
+<br>
 
 **Current Studying:**
 <div>  
