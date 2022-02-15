@@ -1,5 +1,5 @@
 # Hi there, I'm João Luís Gomes Jardim! 👋
-**Welcome to my profile where you can check my public projects.**
+**Welcome to my profile**
 <br><br>
 **About Me:**
 - Age : 21
