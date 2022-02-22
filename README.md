@@ -7,6 +7,10 @@
 - I love playing games, watching movies and tv shows, programming.
 <!-- - Currently working on [Project Name](www.google.com)! -->
 
+**Links:**
+
+<a href="https://www.linkedin.com/in/joao-jardim-84724a218/">LinkedIn<a/>
+
 ___
 
 <div align="center">
