@@ -8,7 +8,7 @@
 
 <!-- - Currently working on [Project Name](www.google.com)! -->
 
-I movies to gitlab thanks
+I moved to gitlab thanks
 
 **Links:**
 
