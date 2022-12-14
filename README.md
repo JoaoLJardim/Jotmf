@@ -8,7 +8,7 @@
 
 <!-- - Currently working on [Project Name](www.google.com)! -->
 
-I moved to gitlab thanks github for everything
+`I change my projects to gitlab.`
 
 **Links:**
 
