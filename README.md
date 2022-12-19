@@ -2,8 +2,8 @@
 **Welcome to my profile**
 <br><br>
 **About Me:**
-- Age : 22
-- From : Portugal Madeira Island
+- Age: 22
+- From: Portugal, Madeira Island
 - I love playing games, watching movies and tv shows, programming.
 
 <!-- - Currently working on [Project Name](www.google.com)! -->
